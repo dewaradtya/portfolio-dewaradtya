@@ -10,7 +10,7 @@ const FooterCallToAction = () => {
             <h2 className="text-3xl md:text-5xl">Ready To Elevate</h2>
             <h2 className="text-3xl md:text-5xl mb-2">Your Business?</h2>
             <p className="text-3xl md:text-5xl text-gray-400">
-              Let's Work Together!
+              Let&#39;s Work Together!
             </p>
           </div>
 

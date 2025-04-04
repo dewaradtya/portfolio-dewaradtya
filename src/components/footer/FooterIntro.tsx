@@ -17,7 +17,7 @@ const FooterIntro = () => {
           </svg>
         </div>
         <p className="mt-3 text-gray-400 text-sm leading-relaxed">
-          Let's Create A Custom Photo <br className="hidden md:block" />
+          Let&#39;s Create A Custom Photo <br className="hidden md:block" />
           Portfolio Just For You.
         </p>
       </div>
