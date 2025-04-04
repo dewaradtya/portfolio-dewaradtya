@@ -26,8 +26,8 @@ const Hero = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1, ease: "easeOut", delay: 0.4 }}
           >
-            Digital product development with emphasis on{" "}
-            <span className="text-gray-400">visual design</span>
+            Junior Web Programmer crafting clean &{" "}
+            <span className="text-gray-400">creative code</span>
           </motion.h1>
 
           <motion.div
@@ -51,8 +51,9 @@ const Hero = () => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, ease: "easeOut", delay: 0.8 }}
             >
-              A multidisciplinary designer. I focus on user experience and
-              interface design to achieve online goals.
+              I build interactive and responsive websites using Laravel and
+              modern web tools. Always learning, always building — one line of
+              code at a time.
             </motion.p>
           </motion.div>
         </motion.div>

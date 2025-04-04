@@ -16,7 +16,7 @@ const faqs = [
   },
   {
     question: "Where can I see your previous work?",
-    answer: "You can check out some of my projects in the 'Projects' section of this portfolio or visit my GitHub profile.",
+    answer: "You can check out some of my projects in the 'Portfolio' section of this portfolio or visit my GitHub profile.",
   },
 ];
 

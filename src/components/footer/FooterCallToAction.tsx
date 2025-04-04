@@ -8,7 +8,7 @@ const FooterCallToAction = () => {
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="text-center md:text-left">
             <h2 className="text-3xl md:text-5xl">Ready To Elevate</h2>
-            <h2 className="text-3xl md:text-5xl mb-2">Your Business?</h2>
+            <h2 className="text-3xl md:text-5xl mb-2">Your Website?</h2>
             <p className="text-3xl md:text-5xl text-gray-400">
               Let&#39;s Work Together!
             </p>
