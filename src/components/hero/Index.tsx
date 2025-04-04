@@ -17,7 +17,7 @@ const Hero = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1, ease: "easeOut", delay: 0.2 }}
           >
-            Hello! I'm Dewa.
+            Hello! I&#39;m Dewa.
           </motion.p>
 
           <motion.h1
@@ -41,7 +41,7 @@ const Hero = () => {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >
-              Let's Talk
+              Let&apos;s Talk
               <FaArrowRight className="ml-2 h-5 w-5" />
             </motion.button>
 

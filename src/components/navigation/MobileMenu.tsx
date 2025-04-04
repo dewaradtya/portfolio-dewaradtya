@@ -1,4 +1,10 @@
-const MobileMenu = ({ isOpen, setIsOpen, scrollToSection }: any) => {
+type MobileMenuProps = {
+  isOpen: boolean;
+  setIsOpen: (value: boolean) => void;
+  scrollToSection: (section: string) => void;
+};
+
+const MobileMenu = ({ isOpen, setIsOpen, scrollToSection }: MobileMenuProps) => {
   return (
     <div
       className={`absolute top-full left-0 right-0 mt-2 mx-4 p-4 bg-white/95 backdrop-blur-lg rounded-2xl shadow-lg transition-all duration-300 md:hidden ${
@@ -26,7 +32,7 @@ const MobileMenu = ({ isOpen, setIsOpen, scrollToSection }: any) => {
           rel="noopener noreferrer"
           className="bg-black text-white text-sm font-medium py-3 rounded-lg hover:bg-gray-900 transition-colors mt-2"
         >
-          Let's Talk
+          Let&#39;s Talk
         </a>
       </div>
     </div>

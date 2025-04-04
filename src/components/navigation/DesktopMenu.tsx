@@ -20,7 +20,7 @@ const DesktopMenu = ({
         rel="noopener noreferrer"
         className="bg-black text-white text-sm font-medium px-5 py-2 rounded-full hover:shadow-md transition-all duration-200 hover:bg-gray-900"
       >
-        Let's Talk
+        Let&#39;s Talk
       </a>
     </div>
   );
