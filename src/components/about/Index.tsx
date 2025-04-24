@@ -11,7 +11,7 @@ const About = () => {
           <div className="flex flex-wrap md:flex-nowrap mt-4">
             <div className="w-full md:w-1/4 pr-4 z-10">
               <div className="mt-8 w-full max-w-xs">
-                <ProfileImage src="/person2.jpg" alt="Group photo" width={300} height={350} />
+                <ProfileImage src="/me2.jpeg" alt="Group photo" width={300} height={350} />
               </div>
             </div>
 

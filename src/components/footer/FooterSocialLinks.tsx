@@ -1,4 +1,4 @@
-import { FaGithub, FaInstagram, FaXTwitter } from "react-icons/fa6";
+import { FaGithub, FaInstagram, FaLinkedin, FaXTwitter } from "react-icons/fa6";
 
 const FooterSocialLinks = () => {
   return (
@@ -55,11 +55,11 @@ const FooterSocialLinks = () => {
             <FaGithub className="w-10 h-10 md:w-12 md:h-12 border border-white p-2 rounded-full cursor-pointer hover:bg-white hover:text-black transition" />
           </a>
           <a
-            href="https://twitter.com/dewaradtya"
+            href="https://www.linkedin.com/in/dewa-raditya-rochman/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <FaXTwitter className="w-10 h-10 md:w-12 md:h-12 border border-white p-2 rounded-full cursor-pointer hover:bg-white hover:text-black transition" />
+            <FaLinkedin className="w-10 h-10 md:w-12 md:h-12 border border-white p-2 rounded-full cursor-pointer hover:bg-white hover:text-black transition" />
           </a>
         </div>
       </div>

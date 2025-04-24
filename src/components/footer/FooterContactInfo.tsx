@@ -5,15 +5,8 @@ const FooterContactInfo = () => {
         <div>
           <p className="text-gray-500 mb-4 font-medium">Address</p>
           <p>
-            11921 Thornapple Cir. Stiloh, <br className="hidden md:block" />
-            Hawaii 96063
-          </p>
-        </div>
-        <div>
-          <p className="text-gray-500 mb-4 font-medium">Address</p>
-          <p>
-            11921 Thornapple Cir. Stiloh, <br className="hidden md:block" />
-            Hawaii 96063
+            Pasuruan, East Java, <br className="hidden md:block" />
+            Indonesian
           </p>
         </div>
       </div>

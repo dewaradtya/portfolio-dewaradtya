@@ -15,13 +15,6 @@ const FooterCallToAction = () => {
           </div>
 
           <div className="flex flex-col items-center md:items-end mt-4 md:mt-0">
-            <Image
-              src="/person1.jpg"
-              alt="Profile"
-              width={48}
-              height={48}
-              className="object-cover"
-            />
             <div className="flex flex-col items-center mt-16">
               {/* Bagian Teks dan Ikon */}
               <div className="flex items-center">
